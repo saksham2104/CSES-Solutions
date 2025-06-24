@@ -1,2 +1,2 @@
 # CSES-Solutions
-My Solutions to the CSES Problem Set 
+My Solutions to the DP and Graph Problems of the CSES Problem Set 
